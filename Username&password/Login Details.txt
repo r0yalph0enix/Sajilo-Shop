@@ -1,0 +1,22 @@
+                         : : : : : LOGIN DETAILS : : : : : 
+
+ADMIN PANEL LOGIN:
+
+Username: admin@admin.com
+Password: password
+
+USER LOGIN:
+
+Username: ramkumar@gmail.com
+Password: ram12
+
+Sandbox acccout:
+personal
+
+Paypal account should be created for payment it is free and easy to create.
+
+DON'T FORGET TO CREATE A DATABASE NAMING "ecomm" AND IMPORT THE SQL FILE TO RUN.
+WITHOUT THE DATABASE THE PROJECT WON'T RUN.
+
+>>DATABASE FILE IS INSIDE "database" FOLDER!
+
